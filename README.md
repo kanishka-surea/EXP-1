@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** |  | **Reg. No.:** |  |
+| **Name:** | Kanishka S | **Reg. No.:** | 26017655 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |25/11/2026 | **Batch / Section:** | |
 
 ---
 
